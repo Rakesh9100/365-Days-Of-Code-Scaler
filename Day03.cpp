@@ -1,3 +1,5 @@
+// Variable and Types
+
 // https://www.interviewbit.com/problems/variable-and-types/
 
 #include<iostream>

@@ -1,3 +1,5 @@
+// Math Library
+
 // https://www.interviewbit.com/problems/math-library/
 
 #include<iostream>
