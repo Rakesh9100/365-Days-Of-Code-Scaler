@@ -8,3 +8,6 @@
 
 ## Day 30 Milestone Streak Badge 🎉🥳
 ![Day 30 Milestone](https://github.com/Rakesh9100/365-Days-Of-Code-Scaler/assets/73993775/8f720fc9-609f-4c64-aa3e-d723e159b706)
+
+## Day 60 Milestone Streak Badge 🎉🥳
+![Day 60 Milestone](https://github.com/Rakesh9100/365-Days-Of-Code-Scaler/assets/73993775/fe2d9420-cb7f-4659-a52e-e3ef05caaf71)
